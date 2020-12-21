@@ -1,5 +1,6 @@
 # 软件与技术操作演示程序 
 简介：该程序主要能够实现`二叉树的基本操作的演示`，如`插入删除元素`、`前后中序遍历`等，以及实现两类排序方式：`冒泡法`和`快速排序法`的动画演示。
+源码地址：https://github.com/thlcanf/SoftwareFinalWork
 ## 实现效果
 ![image](https://github.com/thlcanf/SoftwareFinalWork/blob/main/bucto.gif)
 ## 操作方法：
